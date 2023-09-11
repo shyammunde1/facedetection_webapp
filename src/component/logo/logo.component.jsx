@@ -10,6 +10,7 @@ import brain from '../../assets/brain.png'
 const Logo = () => {
   return (
     <div className="logocontainer">
+      <p>Samtech</p>
       <Tilt className='tilt br2 shadow-2' style={{ height: 90, width: 95 }}>
         <div className="braincontainer">
             <img src={brain} alt="brain" />
