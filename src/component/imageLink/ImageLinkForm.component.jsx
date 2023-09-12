@@ -6,7 +6,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
   return (
     <div>
       <p className='f3'>
-        {'Hey, Try this maigic .You can upload image url and see magic'}
+        {'Hey, Try this magic .You can upload image url here and see magic'}
       </p>
       <div className='center'>
         <div className='form center pa4 br3 shadow-5'>
